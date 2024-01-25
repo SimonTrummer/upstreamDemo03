@@ -1,0 +1,62 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d85e52d5-a630-4270-a061-d1fb40e744f4\" name=\"Changes\" comment=\"innit\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"last_opened_file_path\": \"C:/Schule/SYP_FA/UpstreamDemo\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.2\"\r\n  }\r\n}]]></component>\r\n  <component name=\"TaskManager\">\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"innit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"innit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 4866ddc2db886ab33051c78683e2f9f470dca169)
++++ b/.idea/workspace.xml	(date 1704979852079)
+@@ -13,18 +13,50 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
++  </component>
++  <component name="ProjectColorInfo"><![CDATA[{
++  "associatedIndex": 1
++}]]></component>
++  <component name="ProjectId" id="2aoHMumHM0G6Ov6DYvqsDinuViv" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
+     "git-widget-placeholder": "main",
++    "kotlin-language-version-configured": "true",
+     "last_opened_file_path": "C:/Schule/SYP_FA/UpstreamDemo",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
+     "project.structure.last.edited": "Modules",
+     "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.2"
++    "project.structure.side.proportion": "0.2",
++    "vue.rearranger.settings.migration": "true"
+   }
+ }]]></component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="d85e52d5-a630-4270-a061-d1fb40e744f4" name="Changes" comment="innit" />
++      <created>1704977967152</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1704977967152</updated>
++      <workItem from="1704977968213" duration="479000" />
++    </task>
+     <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="innit" />
