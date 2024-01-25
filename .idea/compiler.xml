@@ -9,8 +9,5 @@
         <module name="UpstreamDemo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="UpstreamDemo" target="21" />
-    </bytecodeTargetLevel>
   </component>
 </project>
